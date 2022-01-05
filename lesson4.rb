@@ -1,0 +1,2 @@
+name="Masanori"
+puts name
